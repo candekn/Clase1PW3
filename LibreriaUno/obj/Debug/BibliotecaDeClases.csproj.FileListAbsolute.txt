@@ -1,0 +1,5 @@
+C:\Users\candelaria.d\source\repos\PrimeraClaseWeb3\LibreriaUno\bin\Debug\LibreriaUno.dll
+C:\Users\candelaria.d\source\repos\PrimeraClaseWeb3\LibreriaUno\bin\Debug\LibreriaUno.pdb
+C:\Users\candelaria.d\source\repos\PrimeraClaseWeb3\LibreriaUno\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\PrimeraClaseWeb3\LibreriaUno\obj\Debug\LibreriaUno.dll
+C:\Users\candelaria.d\source\repos\PrimeraClaseWeb3\LibreriaUno\obj\Debug\LibreriaUno.pdb
